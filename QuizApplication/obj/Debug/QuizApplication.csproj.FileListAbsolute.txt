@@ -1,0 +1,19 @@
+Z:\!Year 11 Folders and Files\Digital Programming\Programming\Fomrs\QuizApplication\QuizApplication\QuizApplication\bin\Debug\QuizApplication.exe.config
+Z:\!Year 11 Folders and Files\Digital Programming\Programming\Fomrs\QuizApplication\QuizApplication\QuizApplication\obj\Debug\QuizApplication.csprojResolveAssemblyReference.cache
+Z:\!Year 11 Folders and Files\Digital Programming\Programming\Fomrs\QuizApplication\QuizApplication\QuizApplication\obj\Debug\QuizApplication.Form1.resources
+Z:\!Year 11 Folders and Files\Digital Programming\Programming\Fomrs\QuizApplication\QuizApplication\QuizApplication\obj\Debug\QuizApplication.Properties.Resources.resources
+Z:\!Year 11 Folders and Files\Digital Programming\Programming\Fomrs\QuizApplication\QuizApplication\QuizApplication\obj\Debug\QuizApplication.csproj.GenerateResource.Cache
+Z:\!Year 11 Folders and Files\Digital Programming\Programming\Fomrs\QuizApplication\QuizApplication\QuizApplication\bin\Debug\QuizApplication.exe
+Z:\!Year 11 Folders and Files\Digital Programming\Programming\Fomrs\QuizApplication\QuizApplication\QuizApplication\bin\Debug\QuizApplication.pdb
+Z:\!Year 11 Folders and Files\Digital Programming\Programming\Fomrs\QuizApplication\QuizApplication\QuizApplication\obj\Debug\QuizApplication.exe
+Z:\!Year 11 Folders and Files\Digital Programming\Programming\Fomrs\QuizApplication\QuizApplication\QuizApplication\obj\Debug\QuizApplication.pdb
+C:\Users\jamie\Downloads\selected_files_2021427_203541\QuizApplication\QuizApplication\QuizApplication\bin\Debug\QuizApplication.exe.config
+C:\Users\jamie\Downloads\selected_files_2021427_203541\QuizApplication\QuizApplication\QuizApplication\bin\Debug\QuizApplication.exe
+C:\Users\jamie\Downloads\selected_files_2021427_203541\QuizApplication\QuizApplication\QuizApplication\bin\Debug\QuizApplication.pdb
+C:\Users\jamie\Downloads\selected_files_2021427_203541\QuizApplication\QuizApplication\QuizApplication\obj\Debug\QuizApplication.csprojAssemblyReference.cache
+C:\Users\jamie\Downloads\selected_files_2021427_203541\QuizApplication\QuizApplication\QuizApplication\obj\Debug\QuizApplication.Form1.resources
+C:\Users\jamie\Downloads\selected_files_2021427_203541\QuizApplication\QuizApplication\QuizApplication\obj\Debug\QuizApplication.Properties.Resources.resources
+C:\Users\jamie\Downloads\selected_files_2021427_203541\QuizApplication\QuizApplication\QuizApplication\obj\Debug\QuizApplication.csproj.GenerateResource.cache
+C:\Users\jamie\Downloads\selected_files_2021427_203541\QuizApplication\QuizApplication\QuizApplication\obj\Debug\QuizApplication.csproj.CoreCompileInputs.cache
+C:\Users\jamie\Downloads\selected_files_2021427_203541\QuizApplication\QuizApplication\QuizApplication\obj\Debug\QuizApplication.exe
+C:\Users\jamie\Downloads\selected_files_2021427_203541\QuizApplication\QuizApplication\QuizApplication\obj\Debug\QuizApplication.pdb
