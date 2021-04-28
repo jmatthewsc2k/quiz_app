@@ -17,3 +17,13 @@ C:\Users\jamie\Downloads\selected_files_2021427_203541\QuizApplication\QuizAppli
 C:\Users\jamie\Downloads\selected_files_2021427_203541\QuizApplication\QuizApplication\QuizApplication\obj\Debug\QuizApplication.csproj.CoreCompileInputs.cache
 C:\Users\jamie\Downloads\selected_files_2021427_203541\QuizApplication\QuizApplication\QuizApplication\obj\Debug\QuizApplication.exe
 C:\Users\jamie\Downloads\selected_files_2021427_203541\QuizApplication\QuizApplication\QuizApplication\obj\Debug\QuizApplication.pdb
+C:\Users\jamie\Documents\GitHub\c2k\quiz_app\QuizApplication\bin\Debug\QuizApplication.exe.config
+C:\Users\jamie\Documents\GitHub\c2k\quiz_app\QuizApplication\bin\Debug\QuizApplication.exe
+C:\Users\jamie\Documents\GitHub\c2k\quiz_app\QuizApplication\bin\Debug\QuizApplication.pdb
+C:\Users\jamie\Documents\GitHub\c2k\quiz_app\QuizApplication\obj\Debug\QuizApplication.csprojAssemblyReference.cache
+C:\Users\jamie\Documents\GitHub\c2k\quiz_app\QuizApplication\obj\Debug\QuizApplication.Form1.resources
+C:\Users\jamie\Documents\GitHub\c2k\quiz_app\QuizApplication\obj\Debug\QuizApplication.Properties.Resources.resources
+C:\Users\jamie\Documents\GitHub\c2k\quiz_app\QuizApplication\obj\Debug\QuizApplication.csproj.GenerateResource.cache
+C:\Users\jamie\Documents\GitHub\c2k\quiz_app\QuizApplication\obj\Debug\QuizApplication.csproj.CoreCompileInputs.cache
+C:\Users\jamie\Documents\GitHub\c2k\quiz_app\QuizApplication\obj\Debug\QuizApplication.exe
+C:\Users\jamie\Documents\GitHub\c2k\quiz_app\QuizApplication\obj\Debug\QuizApplication.pdb

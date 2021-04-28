@@ -28,6 +28,7 @@ namespace QuizApplication
             btnNextTo2.Enabled = false;
             lbCorrectQM.ForeColor = Color.Red;
             tmrTimer.Start();
+            playAgain();
         }
 
         private void setUpQ(string q, string rb1, string rb2, string rb3, string rb4, string ca)
@@ -137,6 +138,28 @@ namespace QuizApplication
             counter = 0;
         }
 
+        private void taskFailedSuccessfully()
+        {
+            gbQ1.Visible = false;
+            lbWelcome.Visible = false;
+            disableNextAndAgainButtons();
+
+            lbCompletedQuiz.Visible = true;
+            btnPlayAgain.Visible = true;
+            btnPlayAgain.Enabled = true;
+        }
+
+        private void playAgain()
+        {
+            gbQ1.Visible = true;
+            lbWelcome.Visible = true;
+
+            lbCompletedQuiz.Visible = false;
+            btnPlayAgain.Visible = false;
+            btnPlayAgain.Enabled = false;
+            nextq = 0;
+        }
+
         private void tmrTimer_Tick(object sender, EventArgs e)
         {
             Thread.Sleep(1000);
@@ -180,10 +203,18 @@ namespace QuizApplication
                 case 8:
                     setUpQ("Question Goes Here", "Answer 1", "Answer 2", "Answer 3", "Answer 4", "Correct Answer");
                     break;
+                default:
+                    taskFailedSuccessfully();
+                    break;
             }
             
 
             //setUpQuestion2();
+        }
+
+        private void btnPlayAgain_Click(object sender, EventArgs e)
+        {
+            playAgain();
         }
     }
 }

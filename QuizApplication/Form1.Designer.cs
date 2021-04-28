@@ -45,6 +45,8 @@
             this.lbNotScores = new System.Windows.Forms.Label();
             this.tmrTimer = new System.Windows.Forms.Timer(this.components);
             this.btnNextTo2 = new System.Windows.Forms.Button();
+            this.lbCompletedQuiz = new System.Windows.Forms.Label();
+            this.btnPlayAgain = new System.Windows.Forms.Button();
             this.gbQ1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -209,11 +211,35 @@
             this.btnNextTo2.UseVisualStyleBackColor = true;
             this.btnNextTo2.Click += new System.EventHandler(this.btnNextTo2_Click);
             // 
+            // lbCompletedQuiz
+            // 
+            this.lbCompletedQuiz.AutoSize = true;
+            this.lbCompletedQuiz.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.lbCompletedQuiz.Location = new System.Drawing.Point(464, 118);
+            this.lbCompletedQuiz.Name = "lbCompletedQuiz";
+            this.lbCompletedQuiz.Size = new System.Drawing.Size(229, 78);
+            this.lbCompletedQuiz.TabIndex = 6;
+            this.lbCompletedQuiz.Text = "Well Done!\r\nYou have successfully\r\ncompleted the quiz!";
+            this.lbCompletedQuiz.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // btnPlayAgain
+            // 
+            this.btnPlayAgain.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+            this.btnPlayAgain.Location = new System.Drawing.Point(469, 199);
+            this.btnPlayAgain.Name = "btnPlayAgain";
+            this.btnPlayAgain.Size = new System.Drawing.Size(224, 40);
+            this.btnPlayAgain.TabIndex = 7;
+            this.btnPlayAgain.Text = "Go again!";
+            this.btnPlayAgain.UseVisualStyleBackColor = true;
+            this.btnPlayAgain.Click += new System.EventHandler(this.btnPlayAgain_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(705, 404);
+            this.Controls.Add(this.btnPlayAgain);
+            this.Controls.Add(this.lbCompletedQuiz);
             this.Controls.Add(this.btnNextTo2);
             this.Controls.Add(this.lbNotScores);
             this.Controls.Add(this.btnGoAgain);
@@ -247,6 +273,8 @@
         private System.Windows.Forms.Timer tmrTimer;
         private System.Windows.Forms.Label lbTime;
         private System.Windows.Forms.Button btnNextTo2;
+        private System.Windows.Forms.Label lbCompletedQuiz;
+        private System.Windows.Forms.Button btnPlayAgain;
     }
 }
 
